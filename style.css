@@ -6,7 +6,7 @@ h1{
        
 }
 h2{
-          font-size: 50px;
+          font-size: 40px;
 }
 
 .orance{
@@ -22,6 +22,8 @@ color: orange;
 .half-wight{
           width: 50%;
           padding-left: 2%;
+         
+         
 }
 .half-wight img{
            width: 80%;
@@ -33,3 +35,28 @@ color: orange;
           padding: 10px 40px;
           border-radius: 5px;
 }
+h4{
+          color: yellowgreen}
+.experience-item{
+          width: 40%;
+          margin-left: 5%;
+          margin-right: 5%;
+          padding-left: 20px;
+          border-radius: 10px;
+          box-shadow: 10px 10px 30px gray;
+}
+#web-dev-experience{
+          border-left: 7px solid;
+          border-image: linear-gradient(blue,cyan);
+          border-image-slice: 1;       
+}
+#full-stack-experince{
+          border-left: 7px solid;
+          border-image: linear-gradient(purple,tomato);
+          border-image-slice: 1;       
+}
+footer p{
+          text-align: center;
+}
+
+
